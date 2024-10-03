@@ -1,10 +1,18 @@
-Proyecto hecho en React para consumir una API de peliculas y recrear una pagina sobre los datos de esta API.
+Project created in React to consume a API of movies, and recreated a page about the API data
 
-Link a la pagina: https://6682901162f6531509073a02--cute-medovik-bab83a.netlify.app/
+![landscape]https://github.com/FrankiNarvaez/IMDB-page/src/assets/page-imdb.png)
 
-Para clonar el repositorio:
+Follow the next steps to clone the repository:
 
-- `git clone https://github.com/tania-mz/proyecto-17.git`
-- `cd proyecto-17`
-- `npm install`
-- `npm run dev`
+`
+git clone https://github.com/tania-mz/proyecto-17.git
+`
+`
+cd IMDB-page
+`
+`
+npm install
+`
+`
+npm run dev
+`
