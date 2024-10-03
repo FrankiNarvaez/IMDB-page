@@ -5,7 +5,7 @@ Project created in React to consume a API of movies, and recreated a page about 
 Follow the next steps to clone the repository:
 
 ``
-git clone https://github.com/tania-mz/proyecto-17.git
+git clone https://github.com/FrankiNarvaez/IMDB-page.git
 ``
 ``
 cd IMDB-page
